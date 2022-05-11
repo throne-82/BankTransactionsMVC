@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69503d7c-1ec4-49f5-a74c-bc3079b25b97": {
+      "ProjectGuid": "69503d7c-1ec4-49f5-a74c-bc3079b25b97",
+      "DisplayName": "BankTransactions",
+      "ColorIndex": 0
+    },
+    "6f7a79c6-6c47-4c2d-848a-2e814356b5f7": {
+      "ProjectGuid": "6f7a79c6-6c47-4c2d-848a-2e814356b5f7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
